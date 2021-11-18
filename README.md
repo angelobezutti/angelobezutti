@@ -1,5 +1,5 @@
 <div align="center">
- <h1> Saudaçõess! Me chamo Angelo Antonio Bezutti 👾</h1>
+ <h1> Hello! I'm Angelo Antonio Bezutti 👾</h1>
 </div>
 
 <div align="center">
