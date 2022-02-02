@@ -4,9 +4,7 @@
 
 <div align="center">
  ☕ Computer Science - IMED ☕ -
- 📊 Software Developer 📊 -
- 🖥️ IT Professional 🖥️ - 
- ⌛ Since 2001 ⌛ 
+ 📊 FullStack Developer - Compass.UOL 📊 
 </div><br>
 
 
