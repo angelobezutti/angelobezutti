@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
- ☕ Computer Science - IMED ☕ -
- 📊 FullStack Developer - Compass.UOL 📊 
+ 📊 FullStack Developer 📊 / 
+ ☕ Computer Science ☕ 
 </div><br>
 
 
