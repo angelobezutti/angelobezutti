@@ -21,7 +21,7 @@
   <img align="center" alt="Angelo-CSS" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Angelo-Js" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Angelo-java" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <img align="center" alt="Angelo-spring" height="40" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/spring-original.svg" />
+  <img align="center" alt="Angelo-spring" height="40" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  />
   <img align="center" alt="Angelo-mysql" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
