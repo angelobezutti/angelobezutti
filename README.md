@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/angelobezutti">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=angelobezutti&show_icons=true&theme=dracula&include_all_commits=true"/>
+
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelobezutti&layout=compact&theme=dracula"/>
 </div>
   
