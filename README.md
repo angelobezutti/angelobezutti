@@ -1,12 +1,11 @@
 <div align="center">
- <h1> Hello! I'm Angelo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+ <h1> Hi there! I'm Angelo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 
 <div align="center">
  📊 Back-End Developer 📊 / 
- ☕ Computer Science Student ☕ 
+ ☕ Computer Scientist ☕ 
 </div><br>
-
 
 <div align="center">
   <a href="https://github.com/angelobezutti">
@@ -20,8 +19,8 @@
 </div>
   
   ##
- <div align="center"> 
+<div align="center"> 
   <a href="https://instagram.com/angelobezutti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:angelobezutti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/angelo-a-bezutti-0a44a0198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  </div>
+  <a href="https://www.linkedin.com/in/angelo-bezutti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
