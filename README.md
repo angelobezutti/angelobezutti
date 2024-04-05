@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- 📊 Back-End Developer 📊 / 
+ 📊 Software Engineer 📊 / 
  ☕ Computer Scientist ☕ 
 </div><br>
 
